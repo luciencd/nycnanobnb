@@ -1,6 +1,6 @@
-nyc-nano-bnb
+nyc-nano-loft-stay
 
-I'm building a nano bnb in bushwick, NYC! 
+I'm building a nano bed and breakfast in bushwick, NYC! 
 
 The goals are:
 
