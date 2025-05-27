@@ -11,3 +11,14 @@ The goals are:
 3. Connecting people from different countries with eachother.
 
 4. Creating a highly efficient use of loft space for the purposes of the first three points.
+
+
+
+
+
+
+## Intellectual Property Notice
+
+All code and projects in this repository were created by Lucien Christie-Dervaux independently, prior to employment with any current or future employer. These projects were developed on personal time using personal equipment and do not use or reference any confidential or proprietary information of any employer.
+
+These works are not affiliated with, sponsored by, or owned by any employer past or present, unless explicitly stated otherwise.
